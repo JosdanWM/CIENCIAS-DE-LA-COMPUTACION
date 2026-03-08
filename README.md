@@ -28,7 +28,8 @@
 - Innovaciones en computación (KA)....
 
 ## **Pincipios Básicos de la Informática**
-- Lenguaje de los Computadores
+- Lenguaje de los Computadores ....
+  * https://drive.google.com/drive/u/0/folders/1-Hzy05X-znTs6HpJzjz52Q4CPs9Nx6dB
 - Compuertas Lógicas
 - Circuitos Combinacionales
 - Memoria y Registros
